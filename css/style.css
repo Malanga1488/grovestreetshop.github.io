@@ -109,6 +109,25 @@ main>div#box2 {
 	padding-top: 0.2%;
 }
 
+main>div#box2>div#span {
+	margin: 4%;
+	text-align: center;
+}
+
+main>div#box2>div#span>span {
+	font-family: 'Roboto Slab', serif;
+	font-size: 2.5vw;
+	color: #FFF;
+}
+
+main>div#box2>img {
+	width: 25%;
+	margin: 3%;
+	box-shadow: 1px 1px 10px #000;
+	border-radius: 5px;
+	transition: 0.1s linear;
+}
+
 main>div#box2>img:hover {
 	box-shadow: 1px 1px 17px #000;
 }
