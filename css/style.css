@@ -102,7 +102,7 @@ main>div#box2 {
 	margin-top: 10%;
 	width: 80%;
 	margin-left: 10%;
-	background-color: rgba(10, 120, 20, 1);
+	background-color: rgba(10, 120, 20, 0.3);
 	border-radius: 5px;
 	box-shadow: 1px 1px 10px #000;
 	text-align: center;
